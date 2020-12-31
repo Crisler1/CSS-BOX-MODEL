@@ -1,5 +1,5 @@
 # CSS-BOX-MODEL
- * O modelo de caixa nos permite adicionar uma borda ao redor dos elementos e definir o espaço entre os elementos
+O modelo de caixa nos permite adicionar uma borda ao redor dos elementos e definir o espaço entre os elementos
 
 - Os elementos HTML são enxergados como caixas.
 - São caixas retangulares // Containers
