@@ -1,0 +1,14 @@
+div {
+    background-color: red;
+    font-size: 28px;
+    color: white;
+    text-align: center;
+    /* content: width (largura) heigth (altura) */
+    width: 500px;
+    height: 500px;
+
+    /* Padding: preenchimento */
+    padding-top: 100px;
+    padding-right: 200px;
+    box-sizing: border-box;
+}
