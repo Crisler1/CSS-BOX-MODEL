@@ -1,2 +1,11 @@
 # CSS-BOX-MODEL
- Aula sobre espaçamentos em BOX-MODEL CSS
+ 
+
+- Os elementos HTML são enxergados como caixas.
+- São caixas retangulares // Containers
+
+É composto de 4 partes, que definem um limite para o contéudo (content)
+
+1. Margin
+2. Border
+3.
